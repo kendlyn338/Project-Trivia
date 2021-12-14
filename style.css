@@ -1,0 +1,23 @@
+body {
+    background-color: mediumturquoise;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    text-align: center;
+    color: magenta;
+
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
+    font-family: cursive;
+    font-size: 30px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
