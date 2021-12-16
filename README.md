@@ -1,3 +1,7 @@
+
+
+
+
 Trivia Time
  
  This app will generate random trivia questions to test your knowledge
