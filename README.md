@@ -22,7 +22,7 @@ https://opentdb.com/api.php?amount=1&type=boolean
 
 ![alt text](https://user-images.githubusercontent.com/94921477/146451287-bf7502d5-632d-4cc7-a1b2-4c7329a5f514.png")
 
-![alt text](https://user-images.githubusercontent.com/94921477/146454060-01872977-9926-4c99-99a7-73ac288b6a34.png")
+![alt text](https://media3.giphy.com/media/0MHgWp8xxjdd0TW0n6/giphy.gif?cid=ecf05e47d2bz582rqgmp1hmp5inglcycdjalrofq1laq9a57&rid=giphy.gif&ct=g)
 
 
 ## Getting Started
