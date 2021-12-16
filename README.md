@@ -20,7 +20,7 @@ https://opentdb.com/api.php?amount=1&type=boolean
 * jQuery
 ## Screenshots
 
-"https://media0.giphy.com/media/VEsfbW0pBu145PPhOi/200.webp?cid=ecf05e47sqdjzjpokifa7itttuaioe0l4pui1hasxdrpzzpe&rid=200.webp&ct=g"
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Getting Started
