@@ -28,7 +28,7 @@ https://opentdb.com/api.php?amount=1&type=boolean
 ## Getting Started
 
 
-https://app.netlify.com/sites/kendlyn/overview
+https://kendlyn.netlify.app
 ## Future Enhancements
 
 
